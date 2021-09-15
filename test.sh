@@ -14,4 +14,4 @@ then
 echo "The value is equal to 10"
 fi
 
-echo "test"
+echo "testing"
