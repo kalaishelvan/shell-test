@@ -14,6 +14,10 @@ then
 echo "The value is equal to 10"
 fi
 
+
 echo "testing"
 
 echo "new merge"
+
+echo "testing 1+2+3"
+
